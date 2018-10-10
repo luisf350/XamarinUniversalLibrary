@@ -12,3 +12,4 @@ Name | Description
 ------------ | ------- 
 [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) | A curated list of awesome Xamarin ports, bindings, tutorials and much more! 
 [Planet Xamarin](https://www.planetxamarin.com/) | Aggregator of content from Xamarin Community members. 
+[snppts](http://snppts.io/latest) | Xamarin Forms UI Snippets. 
